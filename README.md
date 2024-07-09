@@ -2,7 +2,6 @@ PG Life is a Full-Stack Web Application created as part of my Internshala Full S
 The web app is hosted at: https://lasya.free.nf/index.php
 It is fully responsive and operational on any device.
 Tech Stack: HTML, CSS, Bootstrap 5, JavaScript, AJAX, PHP, MySQL.
-As a component of my training for my internship in full stack web development in Internshala, I developed PG Life, a full stack web application. I created this web application using my understanding and the training's instruction, then I tweaked it to increase its functionality and user experience. PG Life is the online app's host. It works and responds flawlessly on all devices. Tech stack: PHP, MySQL, JavaScript, AJAX, HTML, CSS, Bootstrap 5.
 
 Features:
 
